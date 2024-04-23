@@ -1,0 +1,104 @@
+#logotipo{
+    width: 7rem;
+    border-radius: 100px;
+    margin-left: 60px;
+    padding-top: 5px;   
+    vertical-align: middle;
+}
+
+#name{
+    font-size: 3rem;
+    color: blue;
+}
+
+.purple-container{
+    background-color: purple;
+    padding: 20px;
+    border-radius: 10px;
+    color: white; /* Para asegurarse de que el texto sea legible sobre el fondo morado */
+}
+
+#tit{
+    text-decoration: underline;
+}
+
+.img-fluid {
+    max-height: 100%; /* Establece la altura máxima de la imagen al 100% del contenedor */
+    width: auto; /* Permite que el ancho de la imagen se ajuste automáticamente */
+}
+
+.bg-info {
+    padding: 10px; /* Ajusta el espacio interno del contenedor */
+}
+
+#yo{
+    border-radius: 150px;
+    width: 170px;
+    height: 170px;
+}
+
+#card{
+    width: 18rem;
+}
+
+footer{
+    padding-top: 20px;
+    height: 60px;
+    background-color: #315c8b;
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+}
+
+/*login*/
+
+form{
+    width: 500px;
+    background-color: darkturquoise;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.form-text{
+    text-decoration: underline;
+}
+
+h6{
+    display: inline;
+}
+.btn-primary{
+    width: 100%;
+    border: none;
+    border-radius: 20px;
+    background-color: #0d6efd;
+}
+
+.boton{
+    transition: opacity 0.50s;
+}
+.boton:hover{
+    opacity: 0.8;
+}
+.boton:active{
+    opacity: 0.4;
+}
+/*galeria*/
+#caña{
+    width: 15rem;
+    height: 10rem;
+}
+#wrapper{
+    background-color: white;
+    padding-left: 30px;
+}
+.can{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    margin-left: 15rem;
+}
+
+.cant{
+    width: 50px;
+}
